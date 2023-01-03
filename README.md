@@ -2,6 +2,15 @@
 practical 
 
 
+if any error is their then add
+  
+#include<stdio.h>
+#include<conio.h>
+#include<string.h>
+#include<ctype.h>
+
+
+
 
 
 |  practical no| Aim  | download |
